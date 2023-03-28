@@ -7,7 +7,7 @@ env:
   UNITY_EMAIL: "unitydatastorage@gmail.com"
   UNITY_PASSWORD: "qwerty12345Q"
   
-  APP_NAME: "com.ninjacat.play"
+  APP_NAME: "com.battlefongame.game"
   
   AndroidKeystorePass: "t2z8#0QSVNi&"
   AndroidKeyaliasPass: "t2z8#0QSVNi&"
